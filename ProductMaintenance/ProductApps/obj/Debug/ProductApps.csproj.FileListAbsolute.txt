@@ -12,3 +12,16 @@ C:\TAFESA\2021_S1\5TSD\Assessments\Student\ICTPRG502 - ASDS - Test 1 Student Fil
 C:\TAFESA\2021_S1\5TSD\Assessments\Student\ICTPRG502 - ASDS - Test 1 Student Files\Test 1 - Student Files\ProductMaintenance\ProductApps\obj\Debug\ProductApps.csproj.CoreCompileInputs.cache
 C:\TAFESA\2021_S1\5TSD\Assessments\Student\ICTPRG502 - ASDS - Test 1 Student Files\Test 1 - Student Files\ProductMaintenance\ProductApps\obj\Debug\ProductApps.exe
 C:\TAFESA\2021_S1\5TSD\Assessments\Student\ICTPRG502 - ASDS - Test 1 Student Files\Test 1 - Student Files\ProductMaintenance\ProductApps\obj\Debug\ProductApps.pdb
+C:\MyProduct\TafeProductApp\ProductMaintenance\ProductApps\bin\Debug\ProductApps.exe.config
+C:\MyProduct\TafeProductApp\ProductMaintenance\ProductApps\bin\Debug\ProductApps.exe
+C:\MyProduct\TafeProductApp\ProductMaintenance\ProductApps\bin\Debug\ProductApps.pdb
+C:\MyProduct\TafeProductApp\ProductMaintenance\ProductApps\obj\Debug\MainWindow.baml
+C:\MyProduct\TafeProductApp\ProductMaintenance\ProductApps\obj\Debug\MainWindow.g.cs
+C:\MyProduct\TafeProductApp\ProductMaintenance\ProductApps\obj\Debug\App.g.cs
+C:\MyProduct\TafeProductApp\ProductMaintenance\ProductApps\obj\Debug\ProductApps_MarkupCompile.cache
+C:\MyProduct\TafeProductApp\ProductMaintenance\ProductApps\obj\Debug\ProductApps.g.resources
+C:\MyProduct\TafeProductApp\ProductMaintenance\ProductApps\obj\Debug\ProductApps.Properties.Resources.resources
+C:\MyProduct\TafeProductApp\ProductMaintenance\ProductApps\obj\Debug\ProductApps.csproj.GenerateResource.cache
+C:\MyProduct\TafeProductApp\ProductMaintenance\ProductApps\obj\Debug\ProductApps.csproj.CoreCompileInputs.cache
+C:\MyProduct\TafeProductApp\ProductMaintenance\ProductApps\obj\Debug\ProductApps.exe
+C:\MyProduct\TafeProductApp\ProductMaintenance\ProductApps\obj\Debug\ProductApps.pdb
