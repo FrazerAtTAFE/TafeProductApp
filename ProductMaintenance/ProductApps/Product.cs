@@ -21,6 +21,9 @@ namespace ProductApps
         // Variable for adding Wrap Charge
         private decimal totalWrapCharge;
 
+        // Variable for adding GST Charge
+        private decimal totalGSTCharge;
+
         private decimal Price
         {
             get { return price; }
@@ -71,6 +74,12 @@ namespace ProductApps
             set { totalWrapCharge = value; }
         }
 
+        public decimal TotalGSTCharge
+        {
+            get { return totalGSTCharge; }
+            set { totalGSTCharge = value; }
+        }
+
         //Constructor for Product
         public Product(decimal price, int quantity)
         {
@@ -92,6 +101,12 @@ namespace ProductApps
         public void calTotalWrapCharge()
         {
             TotalWrapCharge = TotalCharge + 5;
+        }
+
+        public void calTotalGSTCharge()
+        {
+            // type cast to double for mathematic process
+            TotalGSTCharge = (decimal)((double)TotalWrapCharge + ((double) TotalWrapCharge * 0.1));
         }
     }
 }

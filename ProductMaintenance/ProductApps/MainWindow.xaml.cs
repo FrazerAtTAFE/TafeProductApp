@@ -44,6 +44,10 @@ namespace ProductApps
                 cProduct.calTotalWrapCharge();
                 totalWrapChargeTextBlock.Text = Convert.ToString(cProduct.TotalWrapCharge);
 
+                // Call Product to Calculate and add Total GST Charge to Text Block
+                cProduct.calTotalGSTCharge();
+                totalGSTChargeTextBlock.Text = Convert.ToString(cProduct.TotalGSTCharge);
+
             }
             catch (FormatException)
             {
@@ -58,6 +62,8 @@ namespace ProductApps
             quantityTextBox.Text = "";
             totalPaymentTextBlock.Text = "";
             totalChargeTextBlock.Text = "";
+            totalWrapChargeTextBlock.Text = "";
+            totalGSTChargeTextBlock.Text = "";
         }
 
         private void closeButton_Click(object sender, RoutedEventArgs e)
