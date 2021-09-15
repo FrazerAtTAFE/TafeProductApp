@@ -39,6 +39,11 @@ namespace ProductApps
                 // Call Product to Calculate and add Total Charge to Text Block
                 cProduct.calTotalCharge();
                 totalChargeTextBlock.Text = Convert.ToString(cProduct.TotalCharge);
+
+                // Call Product to Calculate and add Total Wrap Charge to Text Block
+                cProduct.calTotalWrapCharge();
+                totalWrapChargeTextBlock.Text = Convert.ToString(cProduct.TotalWrapCharge);
+
             }
             catch (FormatException)
             {
